@@ -1,0 +1,26 @@
+https://bscscan.com/address/0x1eD6feb794815F697Fd6a3D4b589b619000E573c#writeContract
+
+http://followupcoinpresale.com/
+https://uruenapresale.herokuapp.com/
+
+max number of investment tokens per wallet = 5 M
+
+presale price 0.0001 BUSD per token
+
+presale token purchases exempt from 10% transaction tax
+
+presale tokens locked for 1 month from token launch
+
+- Presale locked for 1 month from launch
+- Founders tokens locked 6 months from launch
+
+Just to be clear, we’re only selling 10% of our total supply in our presale.
+
+Total supply 7.5 B
+Presale supply 750 M
+
+So it is only this 750 M presale supply that we want to be locked for one month from our launch day.
+
+We also want the pre-sale supply to be excluded from the 10% transaction tax.
+
+-- tokenomics
