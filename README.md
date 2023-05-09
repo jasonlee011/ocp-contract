@@ -1,3 +1,26 @@
+# Task Description
+## Requirement
+https://github.com/jasonlee011/ocp-contract/tree/main/doc
+Read all docs
+
+
+## Main Contract
+https://github.com/jasonlee011/ocp-contract/blob/main/contracts/OCP.sol
+
+
+## How to deploy and verify on bsc mainnet
+edit https://github.com/jasonlee011/ocp-contract/blob/main/.env
+https://github.com/jasonlee011/ocp-contract/blob/main/secrets.json
+
+Look at https://github.com/jasonlee011/ocp-contract/blob/main/hardhat.config.ts
+
+
+```shell
+npx hardhat compile
+npx hardhat run scripts/deploy.ts --mainnet
+npx hardhat run verify --contract contracts/BSG.sol:PolygonBSG 0xFAc84DCbFD567085Cfe45554751B386dcff004dF --constructor-args scripts/arg.js
+```
+
 # Advanced Sample Hardhat Project
 
 This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
